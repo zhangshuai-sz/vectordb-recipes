@@ -221,4 +221,5 @@ python main.py --port 8080
 - 官方 README：[`examples/multimodal_clip_diffusiondb/README.md`](/data/workspace/vectordb-recipes/examples/multimodal_clip_diffusiondb/README.md)
 - Colab：[main.ipynb on Colab](https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/multimodal_clip_diffusiondb/main.ipynb)
 - LanceDB 文档：<https://lancedb.github.io/lancedb/>
+- DiffusionDB 数据集主页（HuggingFace）：<https://huggingface.co/datasets/poloclub/diffusiondb>
 - DiffusionDB 论文：<https://arxiv.org/abs/2210.14896>
